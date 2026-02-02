@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"my-mcp-server-b7405dfd": {
+			"url": "https://mcppulse.10academy.org/proxy",
+			"type": "http",
+            "headers":{
+                "X-device": "linux",
+                "X-coding-Tool":"vscode"
+            }
+		}
+	},
+	"inputs": []
+}
